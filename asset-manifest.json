@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AppPresupuesto/static/css/main.f8ae8010.chunk.css",
-    "main.js": "/AppPresupuesto/static/js/main.63fac103.chunk.js",
-    "main.js.map": "/AppPresupuesto/static/js/main.63fac103.chunk.js.map",
-    "runtime-main.js": "/AppPresupuesto/static/js/runtime-main.efb654cb.js",
-    "runtime-main.js.map": "/AppPresupuesto/static/js/runtime-main.efb654cb.js.map",
-    "static/js/2.28f75173.chunk.js": "/AppPresupuesto/static/js/2.28f75173.chunk.js",
-    "static/js/2.28f75173.chunk.js.map": "/AppPresupuesto/static/js/2.28f75173.chunk.js.map",
-    "static/js/3.ee511934.chunk.js": "/AppPresupuesto/static/js/3.ee511934.chunk.js",
-    "static/js/3.ee511934.chunk.js.map": "/AppPresupuesto/static/js/3.ee511934.chunk.js.map",
-    "index.html": "/AppPresupuesto/index.html",
-    "static/css/main.f8ae8010.chunk.css.map": "/AppPresupuesto/static/css/main.f8ae8010.chunk.css.map",
-    "static/js/2.28f75173.chunk.js.LICENSE.txt": "/AppPresupuesto/static/js/2.28f75173.chunk.js.LICENSE.txt",
-    "static/media/imagen.967bd5ad.jpg": "/AppPresupuesto/static/media/imagen.967bd5ad.jpg"
+    "main.css": "/Presupuesto/static/css/main.f8ae8010.chunk.css",
+    "main.js": "/Presupuesto/static/js/main.63fac103.chunk.js",
+    "main.js.map": "/Presupuesto/static/js/main.63fac103.chunk.js.map",
+    "runtime-main.js": "/Presupuesto/static/js/runtime-main.c0fbe5f8.js",
+    "runtime-main.js.map": "/Presupuesto/static/js/runtime-main.c0fbe5f8.js.map",
+    "static/js/2.28f75173.chunk.js": "/Presupuesto/static/js/2.28f75173.chunk.js",
+    "static/js/2.28f75173.chunk.js.map": "/Presupuesto/static/js/2.28f75173.chunk.js.map",
+    "static/js/3.ee511934.chunk.js": "/Presupuesto/static/js/3.ee511934.chunk.js",
+    "static/js/3.ee511934.chunk.js.map": "/Presupuesto/static/js/3.ee511934.chunk.js.map",
+    "index.html": "/Presupuesto/index.html",
+    "static/css/main.f8ae8010.chunk.css.map": "/Presupuesto/static/css/main.f8ae8010.chunk.css.map",
+    "static/js/2.28f75173.chunk.js.LICENSE.txt": "/Presupuesto/static/js/2.28f75173.chunk.js.LICENSE.txt",
+    "static/media/imagen.967bd5ad.jpg": "/Presupuesto/static/media/imagen.967bd5ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.efb654cb.js",
+    "static/js/runtime-main.c0fbe5f8.js",
     "static/js/2.28f75173.chunk.js",
     "static/css/main.f8ae8010.chunk.css",
     "static/js/main.63fac103.chunk.js"
