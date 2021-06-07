@@ -7,17 +7,30 @@ body {
   padding: 0;
   font-family: 'Pattaya', sans-serif;
 }
+
+form{
+  
+  padding: 20px;
+}
+
+.column{
+  padding: 10px;
+}
 header {
   margin: 30px 0;
   text-align: center;
+  margin-bottom: 20px;
  
   
 }
+
+
 
 header h1{
   letter-spacing: 3px;
   font-family: 'Pattaya', sans-serif;
   color: black;
+  
 
 }
 
@@ -30,25 +43,55 @@ header h1{
 .contenido-principal {
   display: flex;
   justify-content:space-evenly;
+  padding: 10px;
   
   }
   @media (max-width:1050px){
+
        .imagen{
          display: none;
        }
-      .contenido-principal{
+      .contenido-principal {
         display: flex;
         flex-direction: column;
-       
+        justify-content: center;
+        align-items: center;
         
-      } 
+      }
+      
+      
+      
+     
+
+      .container{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
 
       .row{
         display: flex;
-        justify-content:space-evenly;
-        height: 500px;
+        flex-direction: column;
+        justify-content: center;
+        
+        
+        
+         
+        
+        
       }
 
+      .column{
+        background-color: #435f7c;
+        margin-top: 10px;
+      }
+
+      .one-half.column{
+        width: 90%;
+      }
+
+    
       
   }
 
@@ -62,6 +105,7 @@ header h1{
   justify-content: center;
   width: 100%;
   background-color: #334f6dc7;
+  
 }
 
 .presupuesto p{
@@ -110,16 +154,23 @@ h2 {
 }
 
 .row{
-  background-color: #334f6dc7;
+  
   padding: 10px;
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 100%;
+  background-color: #334f6dc7;
   
   
 }
 .campo {
   margin-bottom: 2rem;
+  
+}
+
+.column, .columns{
+  margin-left: 0px;
   
 }
 
@@ -224,10 +275,10 @@ h2 {
        justify-content: center;
        align-items: center;
        width: 100%;
-       height: 800px;
-       padding: 0;
        
        
        
   }
+
+  
 }
